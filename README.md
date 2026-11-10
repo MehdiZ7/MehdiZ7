@@ -24,4 +24,4 @@ Google Cloud Data Analytics et Cybersecurity — en cours, obtention prévue en 
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/mehdizouhir) · [Email](mailto:zouhir.mehdi@gmail.com) · [CV](cv.pdf)
+[LinkedIn](https://linkedin.com/in/mehdizouhir) · [Email](mailto:zouhir.mehdi@gmail.com) · [CV](CV_Zouhir_Mehdi_Stage.pdf)
